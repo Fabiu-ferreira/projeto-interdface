@@ -1,0 +1,60 @@
+
+
+  /*PARTE DO FOOTER*/
+#contact-area{
+  color: #ffffff;
+  background-color: #100f0f;
+  text-align: center;
+}
+
+.contact-box{
+  padding-bottom: 50px;
+  margin-bottom: 10px;
+  border-bottom: 2px solid #ffffff;
+
+}
+  
+.contact-box svg {
+  color: #ffffff;
+  width: 29px;
+  height: 55px;
+  line-height: 50px;
+  font-size: 24px;
+  margin-bottom: 9px;
+}
+
+.contact-box p{
+  font-size: 16px;
+}
+
+.contact-box a{
+  color: #ffffff;
+
+}
+.contact-box path{
+  color: #ffffff;
+}
+
+.contact-title{
+  font-weight: bold;
+  color: rgb(255, 255, 255);
+
+}
+    
+/* copy */
+
+.copy-area{
+  
+  text-align: center;
+}
+
+.container{
+  background-color: #100f0f;
+  color: #ffffff;
+}
+.row {
+  text-align: center;
+  color: #ffffff;
+}
+.col-md-12 {
+}

@@ -1,0 +1,33 @@
+
+
+ article {
+  margin-bottom: 50px;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 20px;
+  text-align: left;
+}
+
+.teken{
+
+    text-align: right;
+            float: right;
+            margin: 0 0 20px 20px;
+            width: 400px;
+}
+ 
+p {
+    color: #666;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+.body{
+
+    background-color: black;
+}
+
+
+
+
+   
+
